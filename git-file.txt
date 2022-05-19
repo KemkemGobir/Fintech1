@@ -1,3 +1,7 @@
 Dmitry is a cloud architect and site reliability engineer with over a decade of intense professional experience strictly adhering to the DevOps methodology. 
 He has architected and built multiple platform-agnostic infrastructures from scratch for modern cloud systems.
 Dmitry has a proven track record of hands-on operations in high-scale environments. He is also proficient with IaC, automation, scripting, as well as monitoring and observability
+
+Sagi is a top-performing, Microsoft Certified Senior Azure DevOps engineer with ten years of solid hands-on experience in DevOps, programming, scripting, and business intelligence. 
+Sagi specializes in architecting and implementing DevOps processes using Azure DevOps and Azure Cloud platforms. 
+By utilizing his gained experience in multiple application development areas, Sagi has become one of the most prominent experts in the market
