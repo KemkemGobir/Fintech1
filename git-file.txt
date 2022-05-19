@@ -6,4 +6,5 @@ Sagi is a top-performing, Microsoft Certified Senior Acada DevOps engineer with 
 Sagi specializes in architecting and implementing DevOps processes using Azure DevOps and Azure Cloud platforms. 
 By utilizing his gained experience in multiple application development areas, Sagi has become one of the most prominent experts in the market
 
-In 2012, Arthur earned a master's degree in computer engineering but he soon learned his true north was in system administration. His programming background has helped him automate most of his tasks along the way and he eventually ended up in cloud computing as it gave him even more possibilities. Arthur is a full-stack DevOps who has particularly strong development skills with all things AWS—which his numerous certifications can attest to.
+2012, Arthur earned a master's degree in computer engineering but he soon learned his true north was in system administration. His programming background has helped him automate most of his tasks along the way and he eventually ended up in cloud computing as it gave him even more possibilities. Arthur is a full-stack DevOps who has particularly strong development skills with all things AWS—which his numerous certifications can attest to.
+I am adding a new line to the file
